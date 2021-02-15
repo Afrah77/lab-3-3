@@ -1,13 +1,13 @@
 ---
-title: "Lab 3 - Plastic Waste"
+title: "Lab 3"
 author: "DSC 200 - Data Science I"
 date: "`r Sys.Date()`"
 output: github_document
 ---
 
-Student Name:
+Student Name:afrah jaber
 
-Student ID:
+Student ID:2201002977
 
 ```{r include = FALSE}
 knitr::opts_chunk$set(eval = FALSE)
